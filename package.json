@@ -1,0 +1,9 @@
+{
+  "name": "simple-ci-cd",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Running tests...\"",
+    "build": "echo \"Building app...\"",
+    "start": "node app.js"
+  }
+}
